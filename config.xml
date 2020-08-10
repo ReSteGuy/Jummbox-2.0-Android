@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.rsguy.jummybox2"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Jummbox 2.0</name>
+
+  <description>
+      Jummbox 2.0 For Android
+  </description>
+
+  <author href="" email="redstoneguy.lel@gmail.com">
+      RSGuy
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
